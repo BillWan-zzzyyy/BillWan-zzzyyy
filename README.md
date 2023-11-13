@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BillWan-zzzyyy
-- 👀 I’m interested in messing up things with Python
 - 🌱 I’m currently studying in Shanghai to get my Master's Degree
-- 💞️ 
 - 📫 How to reach me: feel free to contact me by email:zhengyangwan991219@gmail.com
 
 <!---
