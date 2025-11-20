@@ -1,13 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BillWan-zzzyyy/BillWan-zzzyyy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BillWan-zzzyyy/BillWan-zzzyyy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BillWan-zzzyyy/BillWan-zzzyyy/output/github-contribution-grid-snake.svg">
-</picture>
 
-- 👋 Hi, I'm @BillWan-zzzyyy
-- 🌱 I'm a Ph.D. student at [Sky Lab](https://sky-lab-uw.github.io/), UW-Madison.
-- 🚗 My research focuses on **Autonomous Driving** (自动驾驶)
-- 💡 I'm passionate about developing intelligent systems for self-driving vehicles
+- 👋 Hi, I'm Zhengyang
+- 🌱 I'm a first-year Ph.D. student at [Sky Lab](https://sky-lab-uw.github.io/), UW-Madison.
+- 🚗 My research focuses on **Autonomous Driving** and **Intelligent Transportation**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillWan-zzzyyy&hide=contribs&show_icons=true&theme=dracula)
 
 <!---
 BillWan-zzzyyy/BillWan-zzzyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
