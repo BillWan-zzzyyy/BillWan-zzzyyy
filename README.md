@@ -1,4 +1,4 @@
-https://github.com/BillWan-zzzyyy/BillWan-zzzyyy/blob/output/github-snake.gif
+
 - 👋 Hi, I'm Zhengyang
 - 🌱 I'm a first-year Ph.D. student at [Sky Lab](https://sky-lab-uw.github.io/), UW-Madison.
 - 🚗 My research focuses on **Autonomous Driving** and **Intelligent Transportation**
