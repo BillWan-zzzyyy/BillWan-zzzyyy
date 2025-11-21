@@ -1,7 +1,7 @@
 <!-- ![暗色](https://raw.githubusercontent.com/BillWan-zzzyyy/BillWan-zzzyyy/output/github-contribution-grid-snake-dark.svg) -->
 ![亮色](https://raw.githubusercontent.com/BillWan-zzzyyy/BillWan-zzzyyy/output/github-contribution-grid-snake.svg)
 
-- 👋 Hi, I'm Zhengyang
+- 👋 Hi, I'm Zhengyang Wan
 - 🌱 I'm a first-year Ph.D. student at [Sky Lab](https://sky-lab-uw.github.io/), UW-Madison.
 - 🚗 My research focuses on **Autonomous Driving** and **Intelligent Transportation**
 
